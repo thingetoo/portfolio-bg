@@ -9,4 +9,4 @@
 My personal portfolio website equipped with a switch to convert the page into 'dark mode'. 
 
 ## Screenshots
-![Example screenshot](.img/screenshot.jpeg)
+![Example screenshot](./img/screenshot.jpeg)
