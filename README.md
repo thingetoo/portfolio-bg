@@ -1,5 +1,5 @@
 # My Personal Portfolio
-> Check this out to see some of my projects built.
+> Check this out to see some of the projects that I built.
 
 ## Table of contents
 * [General info](#general-info)
